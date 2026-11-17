@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="310" viewBox="0 0 1100 310">
+<defs>
+ <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#15351e" stroke-width="0.6"/></pattern>
+ <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 3H1100" stroke="#000" opacity=".3"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <linearGradient id="panel" x2="0" y2="1"><stop stop-color="#102719"/><stop offset="1" stop-color="#030605"/></linearGradient>
+</defs>
+<rect width="1100" height="310" fill="#030605"/><rect width="1100" height="310" fill="url(#grid)"/>
+<rect x="16" y="16" width="1068" height="278" rx="8" fill="none" stroke="#2f9a50" stroke-width="3"/>
+<rect x="30" y="28" width="285" height="137" fill="url(#panel)" stroke="#35d66b" stroke-width="2"/>
+<g font-family="monospace" font-size="15" fill="#5dffa0"><text x="45" y="52">&gt; init_morphin_sequence</text><text x="45" y="77">&gt; backend ........ OK</text><text x="45" y="102">&gt; database ....... OK</text><text x="45" y="127">&gt; github ......... OK</text><text x="45" y="152">&gt; COMMAND CENTER ONLINE</text></g>
+<g transform="translate(865 26)">
+ <path d="M75 0H139L167 23L174 105L158 141L129 170H83L47 141L32 102L38 27Z" fill="#115d30" stroke="#e1b455" stroke-width="8"/>
+ <path d="M54 43L101 35L150 43L156 77L130 99H75L48 75Z" fill="#040707" stroke="#e3e9e1" stroke-width="7"/>
+ <path d="M65 122L103 136L141 122L123 151H84Z" fill="#f2f1dd"/>
+ <path d="M95 8L112 8L124 24L108 37L92 23Z" fill="#e8bd53"/><path d="M101 13H115L113 25H102Z" fill="#ef4444"/>
+ <path d="M35 110L5 140L37 134L19 171L60 134" fill="#e4b958"/><path d="M165 113L198 136L172 139L191 171L148 133" fill="#e4b958"/>
+</g>
+<rect x="332" y="30" width="490" height="34" fill="#0a1b10" stroke="#cfa756" stroke-width="2"/><text x="345" y="53" font-family="monospace" font-size="16" fill="#ddb65a">SYSTEM: MORPHIN' TERMINAL / 16-BIT MODE</text>
+<text x="42" y="224" font-family="monospace" font-weight="900" font-size="65" letter-spacing="-3" fill="#53fa89" filter="url(#glow)">TERPSANDLUPS</text>
+<text x="47" y="264" font-family="monospace" font-size="22" fill="#e4bc63">CODE  //  DATA  //  AI  //  BACKEND</text>
+<rect x="340" y="89" width="463" height="76" fill="#061009" stroke="#255e36"/><text x="357" y="118" font-family="monospace" font-size="17" fill="#a8e7b6">&gt; morphin_time --compile</text><text x="357" y="146" font-family="monospace" font-size="17" fill="#d6b15c">[████████████████░░░░] BUILDING</text>
+<rect x="0" y="0" width="1100" height="310" fill="url(#scan)" pointer-events="none"/>
+<rect x="47" y="273" width="780" height="3" fill="#36eb76"><animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite"/></rect>
+<rect x="805" y="246" width="12" height="23" fill="#5aff93"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>
