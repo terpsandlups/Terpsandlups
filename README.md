@@ -1,80 +1,131 @@
 <div align="center">
 
-<img src="./assets/morphin-banner.svg" width="100%" alt="Morphin Terminal — arcade command center" />
+<img src="./assets/morphin-banner.svg" width="100%" alt="Morphin Terminal: retro green and gold 16-bit arcade developer command center" />
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2600&pause=1100&color=55FF89&center=true&vCenter=true&width=900&height=65&lines=IT%27S+MORPHIN%27+TIME!;Compiling+production+code...;Data+%2B+Backend+%2B+AI;Welcome+to+the+Command+Center" alt="Terminal typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=29&duration=3000&pause=1200&color=56E58D&center=true&vCenter=true&width=850&height=52&lines=INITIALIZING+DEVELOPER+WORKSPACE...;BACKEND+%7C+DATA+%7C+AUTOMATION+%7C+AI;FROM+BUSINESS+PROBLEMS+TO+WORKING+SOFTWARE;IT%27S+MORPHIN%27+TIME!" alt="Animated typing: backend, data, automation and AI" />
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING_IN_PUBLIC-07110B?style=flat-square&labelColor=0E2014&color=2EB86D" alt="Status" />
-<img src="https://img.shields.io/badge/MODE-ARCADE_16_BIT-07110B?style=flat-square&labelColor=0E2014&color=D4A64C" alt="Arcade 16-bit" />
-<img src="https://komarev.com/ghpvc/?username=terpsandlups&style=flat-square&color=2eb86d&label=PROFILE+VIEWS" alt="Profile views" />
+![Status](https://img.shields.io/badge/STATUS-BUILDING_%26_LEARNING-08130C?style=flat-square&labelColor=13261B&color=319C63)
+![Theme](https://img.shields.io/badge/THEME-RETRO_COMMAND_CENTER-08130C?style=flat-square&labelColor=13261B&color=D2B15F)
+![Views](https://komarev.com/ghpvc/?username=terpsandlups&style=flat-square&color=319C63&label=VISITS)
+
+**[PROJECTS](#-mission-select--featured-projects) · [TECH STACK](#-loadout--technologies) · [ACTIVITY](#-system-monitor--github-activity) · [CONNECT](#-contact--connect)**
 
 </div>
 
-### `> boot sequence: developer.exe`
+## `> whoami --professional`
 
-<img src="./assets/neofetch.svg" width="100%" alt="Developer system information terminal" />
+**Software development student | Backend • Data Analytics • Retail Technology**
 
-### `> whoami`
+I turn real operational challenges into practical software projects. My background in **inventory control, auditing and loss prevention** informs the tools I build: applications for store operations, data analysis, dashboards, and workflow automation.
 
-I'm building useful software at the intersection of **backend engineering, data analytics, artificial intelligence and retail technology**. I enjoy understanding the full pipeline: from SQL modeling and APIs to testing, deployment and reliable dashboards.
+I'm studying **Systems Analysis and Development**, focusing on software engineering fundamentals, APIs, data modeling, backend systems and AI-assisted development. I value readable code, explicit business rules, testing and understanding how a system works before deploying it.
 
-- `CURRENT QUEST` — Become a stronger software engineer through real-world projects.
-- `CORE LOOP` — Study → build → test → refactor → deploy.
-- `FOCUS` — JavaScript, Node.js, Python, SQL, PostgreSQL, integrations and AI.
-- `BONUS XP` — Retail operations, inventory intelligence and applied analytics.
+> **My approach:** understand the business problem → model the data → build a usable solution → validate the result.
 
-### `> inventory --skills`
+<details>
+<summary><b>🇧🇷 Ler apresentação em português</b></summary>
+
+Sou estudante de Análise e Desenvolvimento de Sistemas, com experiência profissional em **controle de estoques, auditorias e prevenção de perdas no varejo alimentar**. Desenvolvo projetos práticos que conectam processos operacionais, dados e tecnologia. Meu foco de evolução está em **back-end, APIs, SQL/PostgreSQL, Python, JavaScript e inteligência artificial**, sempre buscando compreender a arquitetura, a lógica e as decisões técnicas do que construo.
+
+</details>
+
+### `> neofetch --developer`
+
+<img src="./assets/neofetch.svg" width="100%" alt="Terminal-themed developer overview with real technologies and interests" />
+
+## `> mission select --featured-projects`
+
+### `01 / Z-AI — Retail Executive Dashboard`
+**[Explore public repository](https://github.com/terpsandlups/Z-AI-Dashboard)**
+
+An executive analytics application for retail operations, designed to bring together sales, inventory discrepancies, recognized losses, supplier exchanges and store-level KPIs.
+
+`DATA ANALYTICS` · `DASHBOARDS` · `POSTGRESQL` · `SUPABASE`
+
+**Engineering focus:** data ingestion, business metrics, historical comparisons, filters and decision-oriented visualization.
+
+### `02 / Brasa Burger — Retail ERP`
+**[Explore public repository](https://github.com/terpsandlups/BRASA_BURGER_CRUD_ERP)**
+
+An ERP learning project built around operational workflows and business rules, with a focus on implementing and evolving practical management features.
+
+`ERP` · `CRUD` · `BACKEND` · `BUSINESS RULES`
+
+**Engineering focus:** structured data, CRUD operations, workflow consistency and maintainable functionality.
+
+### `03 / Behind the scenes — Experiments & ongoing work`
+
+| Project | Problem being explored | Visibility |
+|:--|:--|:--|
+| **EstudaLab IA** | Study platform and AI-assisted question generation | Private development |
+| **Gestão de Validades** | Product expiration monitoring and store-level workflows | Private development |
+| **MercadoLab 360** | Omnichannel retail, GTIN product registration and API architecture | In planning |
+
+*Private projects are described as areas of ongoing work, not public demonstrations or completed releases.*
+
+## `> loadout --technologies`
+
+| Domain | Tools and technologies |
+|:--|:--|
+| **Languages** | Python, JavaScript, SQL, PHP |
+| **Data & backend** | PostgreSQL, MySQL, Node.js, REST APIs |
+| **Deployment & workflow** | Git, GitHub, Vercel, Netlify, Supabase |
+| **Learning & exploration** | TypeScript, data pipelines, AI integrations, automated tests |
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-101810?style=flat-square&logo=javascript&logoColor=F4D35E)
-![TypeScript](https://img.shields.io/badge/TypeScript-101810?style=flat-square&logo=typescript&logoColor=63B3ED)
-![Python](https://img.shields.io/badge/Python-101810?style=flat-square&logo=python&logoColor=F4D35E)
-![SQL](https://img.shields.io/badge/SQL-101810?style=flat-square&logo=postgresql&logoColor=55FF89)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101810?style=flat-square&logo=postgresql&logoColor=55FF89)
-![PHP](https://img.shields.io/badge/PHP-101810?style=flat-square&logo=php&logoColor=B5A8FF)
-![Node.js](https://img.shields.io/badge/Node.js-101810?style=flat-square&logo=nodedotjs&logoColor=55FF89)
-![Git](https://img.shields.io/badge/Git-101810?style=flat-square&logo=git&logoColor=F4D35E)
-![Vercel](https://img.shields.io/badge/Vercel-101810?style=flat-square&logo=vercel&logoColor=FFFFFF)
-![Supabase](https://img.shields.io/badge/Supabase-101810?style=flat-square&logo=supabase&logoColor=55FF89)
+<img src="https://img.shields.io/badge/Python-0E1C13?style=flat-square&logo=python&logoColor=E2BF68" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-0E1C13?style=flat-square&logo=javascript&logoColor=E2BF68" alt="JavaScript" />
+<img src="https://img.shields.io/badge/PostgreSQL-0E1C13?style=flat-square&logo=postgresql&logoColor=57E38F" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Node.js-0E1C13?style=flat-square&logo=nodedotjs&logoColor=57E38F" alt="Node.js" />
+<img src="https://img.shields.io/badge/Supabase-0E1C13?style=flat-square&logo=supabase&logoColor=57E38F" alt="Supabase" />
+<img src="https://img.shields.io/badge/Git-0E1C13?style=flat-square&logo=git&logoColor=E2BF68" alt="Git" />
 
 </div>
 
-### `> mission select`
-
-| MISSION | TECH / OBJECTIVE | STATE |
-|:---|:---|:---:|
-| [**Z-AI Dashboard**](https://github.com/terpsandlups/Z-AI-Dashboard) | Retail analytics, dashboards, PostgreSQL/Supabase | `ACTIVE` |
-| **EstudaLab IA** | Question generation and AI-powered learning | `BUILDING · PRIVATE` |
-| **Gestão de Validades** | Expiration-date management and store workflows | `BUILDING · PRIVATE` |
-| [**Brasa Burger ERP**](https://github.com/terpsandlups/BRASA_BURGER_CRUD_ERP) | Retail ERP and operational workflows | `ACTIVE` |
-| **MercadoLab 360** | Omnichannel retail, GTIN APIs and data platform | `PLANNED` |
-
-### `> git status --all`
+## `> system monitor --github-activity`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=terpsandlups&show_icons=true&hide_border=true&bg_color=070A08&title_color=E1BA61&text_color=B9EAC6&icon_color=55FF89&ring_color=55FF89&include_all_commits=true" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terpsandlups&layout=compact&hide_border=true&bg_color=070A08&title_color=E1BA61&text_color=B9EAC6&langs_count=7" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=terpsandlups&show_icons=true&hide_border=true&bg_color=070A08&title_color=E1BA61&text_color=B9EAC6&icon_color=55FF89&ring_color=55FF89" height="165" alt="Automatically generated GitHub activity stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terpsandlups&layout=compact&hide_border=true&bg_color=070A08&title_color=E1BA61&text_color=B9EAC6&langs_count=6" height="165" alt="Languages detected in public repositories, not an assessment of proficiency" />
+
+<sub>Statistics are provided by a third-party service; availability can vary. Language percentages represent repository code, not skill level.</sub>
 
 </div>
 
-### `> activate arcade mode`
+## `> activate arcade --contributions`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/terpsandlups/Terpsandlups/output/github-snake-dark.svg" alt="Snake eating contributions — generated by scheduled workflow" width="100%" />
+<img src="https://raw.githubusercontent.com/terpsandlups/Terpsandlups/output/github-snake-dark.svg" width="100%" alt="Animated snake traveling through GitHub contributions, generated by a GitHub Action" />
 
-<sub>The contribution snake appears once the GitHub Action has run successfully.</sub>
+<sub>Contribution animation uses [Platane/snk](https://github.com/Platane/snk). It is available after the workflow completes and publishes the output branch.</sub>
 
 </div>
+
+## `> roadmap --next-level`
+
+- [x] Create public profile README and retro visual identity
+- [x] Showcase public projects and explain their real-world purpose
+- [x] Add technology stack and developer introduction
+- [x] Configure contribution snake workflow
+- [ ] Publish deeper technical case studies with architecture, screenshots and setup instructions
+- [ ] Expand public API projects with tests, documentation and deployment examples
+
+## `> contact --connect`
+
+**GitHub:** [@terpsandlups](https://github.com/terpsandlups)  
+**Highlighted work:** [Z-AI Dashboard](https://github.com/terpsandlups/Z-AI-Dashboard) · [Brasa Burger ERP](https://github.com/terpsandlups/BRASA_BURGER_CRUD_ERP)
 
 ---
 
 <div align="center">
 
-`[ BUILD ]` • `[ TEST ]` • `[ REFACTOR ]` • `[ DEPLOY ]`
+`[ ANALYZE ]` → `[ DESIGN ]` → `[ BUILD ]` → `[ TEST ]` → `[ DEPLOY ]`
 
 **`MAY THE SOURCE BE WITH YOU.`**
+
+<sub>Retro arcade aesthetics. Real projects. Continuous learning.</sub>
 
 </div>
